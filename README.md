@@ -1,6 +1,6 @@
-# Indian_Wedding-Data_Analysis
+# 💍 Indian Wedding Data Analysis
 
-# Introduction
+# 🌸 Introduction
 
 The wedding industry in India is one of the largest event management sectors in the world. Every wedding includes several categories of expenditure such as venue booking, decorations, photography, entertainment, catering, clothing, and miscellaneous services.
 
@@ -8,7 +8,7 @@ The wedding industry in India is one of the largest event management sectors in 
 
  Exploratory Data Analysis (EDA) helps summarize data using descriptive statistics and graphical representations before building predictive models. This project applies EDA techniques to understand wedding expenses and derive meaningful business insights.
 
-# Objectives
+# 🎯 Project Objectives
 * Analyze the Indian wedding dataset.
 * Clean and preprocess the data.
 * Study cost distribution across wedding categories.
@@ -16,7 +16,7 @@ The wedding industry in India is one of the largest event management sectors in 
 * Identify key factors contributing to total wedding expenses.
 * Generate insights for effective budget planning.
 
-# Methodology
+# 🚀 Methodology
 
 The project follows these stages:
 
@@ -43,26 +43,26 @@ Graphs are created to represent patterns and relationships among variables.
 Step 6: Insight Generation
 Business insights are derived from statistical summaries and visualizations.
 
-# Key Findings
-* Wedding expenses vary significantly depending on the type of wedding.
-* Decoration is one of the major contributors to the overall wedding budget.
-* Entertainment costs increase with larger wedding events.
-* Photography expenses form an important portion of the total expenditure.
-* Venue and service choices have a noticeable impact on the total wedding cost.
-* Visualizations reveal clear spending trends that can support better financial planning.
+# 📊 Key Findings
+### 💰 Wedding expenses vary significantly depending on the type of wedding.
+### 🌸 Decoration is one of the major contributors to the overall wedding budget.
+### 🎶 Entertainment costs increase with larger wedding events.
+### 📸 Photography expenses form an important portion of the total expenditure.
+### 🏛️ Venue and service choices have a noticeable impact on the total wedding cost.
+### 📈Visualizations reveal clear spending trends that can support better financial planning.
 
-# Applications
+# 🌟 Applications
 
 This project can be useful for:
 
-* Wedding planners
+*  Wedding planners
 * Event management companies
 * Budget consultants
 * Families planning weddings
 * Data analytics learning projects
 * Business decision-making in the event industry
 
-# Conclusion
+# 🎯 Conclusion
 
 The Indian Weddings Cost Analysis project successfully demonstrates the use of Exploratory Data Analysis techniques to understand wedding expenditure patterns. Using Python and its data analysis libraries, the dataset was cleaned, processed, statistically analyzed, and visualized to uncover meaningful insights.
 
